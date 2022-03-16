@@ -1,5 +1,5 @@
 body {
-  background-color: #c3a995;
+  background-color: #c4aa93;
 }
 .coffee-animation {
   /* vertical-align: middle;
@@ -21,7 +21,6 @@ html {
   height: 100%;
 }
 body {
-  background: #f1f1f1;
   background-size: cover;
   font-family: "Cabin Condensed", sans-serif;
   display: flex;
@@ -31,6 +30,6 @@ body {
 }
 svg {
   font-weight: bold;
-  max-width: 600px;
+  max-width: 800px;
   height: 100%;
 }
