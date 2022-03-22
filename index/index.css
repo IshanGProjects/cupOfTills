@@ -34,6 +34,20 @@ svg {
   height: 150%;
 }
 
+#About {
+  color: #ffffff;
+  font-family: "Merriweather", serif;
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+  position: absolute;
+  top: 995px;
+  margin-top: 0px;
+  margin-bottom: 50px;
+  margin-left: 5em;
+  margin-right: 5em;
+}
+
 /* Style the navbar */
 #navbar {
   overflow: hidden;
