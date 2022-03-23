@@ -46,16 +46,20 @@ body {
 
 /* Set a specific color for each brand */
 
-/* Facebook */
-.fa-facebook {
+/* Instagram */
+.fa-instagram {
   background: #9f7856;
   color: white;
 }
-
-/* Twitter */
-.fa-twitter {
-  background: #9f7856;
-  color: white;
+.fa-tiktok {
+  background-color: #9f7856;
+  color: rgb(167, 10, 10);
+  /* padding: 30px;
+  font-size: 30px;
+  width: 50px;
+  top: 610px;
+  text-align: center;
+  text-decoration: none; */
 }
 
 svg {
@@ -102,6 +106,10 @@ svg {
   text-align: center;
   padding: 30px;
   text-decoration: none;
+}
+
+#social {
+  float: right;
 }
 
 /* Page content */
