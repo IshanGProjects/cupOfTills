@@ -1,5 +1,5 @@
 body {
-  background-color: #c4aa93;
+  background-color: #ffd1e7;
 }
 .coffee-animation {
   /* vertical-align: middle;
@@ -48,12 +48,24 @@ body {
 
 /* Instagram */
 .fa-instagram {
-  background: #9f7856;
+  background: #b88895;
   color: white;
 }
-.fa-tiktok {
-  background-color: #9f7856;
-  color: rgb(167, 10, 10);
+
+.fa-2xl {
+  font-size: 2em;
+  line-height: 0.65em;
+  vertical-align: 1em;
+}
+
+/* hover effect for the Tik tok Logo for social media*/
+.fa-2xl:hover {
+  opacity: 0.7;
+}
+
+.socials {
+  background-color: #b88895;
+  color: rgb(255, 255, 255);
   /* padding: 30px;
   font-size: 30px;
   width: 50px;
@@ -71,7 +83,7 @@ svg {
 #box {
   width: 1500px;
   height: 1000px;
-  background-color: #12230d;
+  background-color: #b88895;
   position: absolute;
   top: 910px;
 }
@@ -95,7 +107,7 @@ svg {
 #navbar {
   overflow: hidden;
   z-index: 2; /*Add this*/
-  background-color: #9f7856;
+  background-color: #b88895;
 }
 
 /* Navbar links */
@@ -106,6 +118,10 @@ svg {
   text-align: center;
   padding: 30px;
   text-decoration: none;
+}
+
+#navbar a:hover {
+  opacity: 0.7;
 }
 
 #social {
